@@ -1,1 +1,3 @@
-# cdn
+# cnd
+
+## use as pic store
